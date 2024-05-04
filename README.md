@@ -30,7 +30,7 @@ Instrucciones de uso y demostración en el siguiente video: [Ver video](https://
 
 Para la segunda parte del Taller 2, hemos realizado un notebook en Colab donde se entrena un modelo basado en Deep Learning para una aplicación de Procesamiento de Lenguaje Natural (PLN).
 
-- [Notebook Taller2_HuggingFace_FineTune](Taller2_HuggingFace_FineTune)
+- [Notebook Taller2_HuggingFace_FineTune](Taller2_HuggingFace_FineTune.ipynb)
 
 El notebook incluye los siguientes pasos:
 - Exploración del problema o la aplicación a resolver
