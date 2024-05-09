@@ -17,7 +17,7 @@ Procesamiento de datos secuenciales
 ---
 
 ## Taller 2
-Instrucciones de uso y demostración en el siguiente video: [Ver video](https://www.youtube.com/watch?v=C1eOiOkD_8A)
+Instrucciones de uso y demostración en el siguiente video: [Ver video]([https://www.youtube.com/watch?v=C1eOiOkD_8A](https://drive.google.com/drive/folders/1hkmbjR5kO3WQdfst2hfpKv_jL-vXrag-))
 ### Parte 1: Prototipo de aplicación con OpenAI GPT-3
 
 Para la primera parte del Taller 2, hemos desarrollado un prototipo de aplicación en Colab utilizando la API del modelo GPT-3 liberado por OpenAI. Esta aplicación permite generar texto de manera interactiva utilizando el potente modelo GPT-3. 
